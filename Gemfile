@@ -2,6 +2,8 @@
 
 source 'https://rubygems.org'
 
+gem "jekyll-theme-minimal"
+
 gem "jekyll", "~> 4.2"
 
 group :jekyll_plugins do
